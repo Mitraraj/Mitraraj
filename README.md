@@ -27,7 +27,6 @@ Efficiency-first. Performance tuning, high availability, and automation that sti
 - SQLite 📘  
 - Cassandra 🧩  
 
-> “Add yours also” — if it stores data (SQL or NoSQL), I’m up for it. 🙂
 
 ---
 
